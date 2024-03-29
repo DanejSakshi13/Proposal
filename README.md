@@ -37,7 +37,7 @@ https://github.com/RS-labhub/I-Love-You/assets/117426013/5642a06f-bcb7-4c89-be94
   <img src="Screenshots/romantic.png"  />
   <img src="Screenshots/hate.png"  />
   <img src="Screenshots/lost.png"  />
-  <img src="Screenshots/romantic.png"  />
+  <img src="Screenshots/unclickableYes.png"  />
 </p>
 
 https://github.com/RS-labhub/I-Love-You/screenshots/117426013/75b10036-6158-423c-83d5-25428c4e7ad6
