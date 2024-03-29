@@ -1,5 +1,5 @@
 <h1 align="center">
-    BUT... I LOVE YOU
+    BUT... I <span color="red">LOVE<span> YOU ❣️
 </h1>
 
 https://github.com/RS-labhub/I-Love-You/assets/117426013/2566d37c-f5f2-4c80-ac44-6a9cdd4efc7e
