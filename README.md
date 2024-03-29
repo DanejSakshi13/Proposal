@@ -1,15 +1,12 @@
-
-https://github.com/RS-labhub/I-Love-You/assets/117426013/29126d7c-f32e-4e71-a5af-0ef45a8dc21b
 <p align="right">
     <img height="40px" width="40px" src="Assets\RS LOGO.png" />
 </p>
 <p align="center">
-  <img src="Assets/Preview.png"  />
+  <img src="Previews/Preview.mp4"  />
 </p>
 
 
 ### But... I Love You
-- .
 - This project/ web application can help you to propose your crush and make her forever and ever yours only.
 
 
