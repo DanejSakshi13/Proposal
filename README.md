@@ -1,3 +1,5 @@
+
+https://github.com/RS-labhub/I-Love-You/assets/117426013/29126d7c-f32e-4e71-a5af-0ef45a8dc21b
 <p align="right">
     <img height="40px" width="40px" src="Assets\RS LOGO.png" />
 </p>
@@ -7,8 +9,8 @@
 
 
 ### But... I Love You
-- Email-sms spam detector is a NLP(Natural Language Processing) and ML(Machine Learning) project.
-- This project/application can help you to classify the spam/ham(not spam) messages dropped either as a mail or a SMS.
+- .
+- This project/ web application can help you to propose your crush and make her forever and ever yours only.
 
 
 ### :books: Index
@@ -33,54 +35,48 @@ https://github.com/RS-labhub/I-Love-You/assets/117426013/5642a06f-bcb7-4c89-be94
 
 ### Screenshots
 <p align="center">
-  <img src="Assets/Preview.png"  />
-  <img src="Assets/spam.png"  />
-  <img src="Assets/not-spam.png"  />
+  <img src="Screenshots/hello.png"  />
+  <img src="Screenshots/shower.png"  />
+  <img src="Screenshots/ask.png"  />
+  <img src="Screenshots/romantic.png"  />
+  <img src="Screenshots/hate.png"  />
+  <img src="Screenshots/lost.png"  />
+  <img src="Screenshots/romantic.png"  />
 </p>
 
+https://github.com/RS-labhub/I-Love-You/screenshots/117426013/75b10036-6158-423c-83d5-25428c4e7ad6
 
 $~$
 
 ###  :outbox_tray: Set up
-- These are the steps required to install the project.
-- To get the model, run all the .ipynb files. Or you can directly proceed with the following steps:
+- These are the steps required to install/run the project.
+- You can also directly proceed by using the live server [demo link](https://rs-labhub.github.io/I-Love-You/)
 
 
-1. Clone the Repository: Open a terminal or command prompt and clone the EMAIL-SMS-Detector repository from GitHub using the following command:
-
-  ```bash
-    git clone https://github.com/RS-labhub/Email-Spam-Detection.git
-  ```
-
-2. Navigate to the Repository Directory: Change your current directory to the cloned EMAIL-SMS-Detector repository:
+1. Clone the Repository: Open a terminal or command prompt and clone the I-Love-You repository from GitHub using the following command:
 
   ```bash
-    cd EMAIL-SMS-Detector
+    git clone https://github.com/RS-labhub/I-Love-You.git
   ```
 
-3. Install Dependencies: Use pip to install the required Python dependencies listed in the requirements.txt file:
+2. Navigate to the Repository Directory: Change your current directory to the cloned I-Love-You repository:
 
   ```bash
-    pip install -r requirements.txt
+    cd I-Love-You
   ```
 
-4. Run EMAIL-SMS-Detector application using the following command:
+3. Run I-Love-You web application using "Open with Live Server"
 
-  ```py
-    run spam_detector_taipy.py
-  ```
-
-5. Once the application is running, open a web browser and navigate to the specified address, and yeah! you're all set to use the EMAIL-SMS-Detector application.
+5. Once the application is running, open a web browser and navigate to the specified address, and yeah! you're all set to use the I-Love-You.
 <p align="center">
   The running port should look like this
 </p>
 <p align="center">
-<img src="Assets/port.png" >
+<img src="Screenshots/port.png" >
 </p>
 
 
-## Usage
-Once EMAIL-SMS-Detector is installed and running, you can use it to check the spam/non-spam messages, input your message in the provided text-area, and get to know the results after clicking on the Predict button.
+## Why "But.. I Love You?
 
 
 $~$
@@ -89,7 +85,7 @@ $~$
 
 1. `Fork` our repository to your GitHub account. 
 2. `Clone` your fork to your local machine. 
-    Use the command `git clone https://github.com/RS-labhub/Email-Spam-Detection.git`.
+    Use the command `git clone https://github.com/RS-labhub/I-Love-You/.git`.
 3. Create a new branch for your work. 
     Use a descriptive name, like `fix-login-bug` or `add-user-profile-page`.
     
