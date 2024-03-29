@@ -121,12 +121,13 @@ $~$
 </p>
 
 <p align="center">
+    People who <a href="https://github.com/RS-labhub/I-Love-You/stargazers">STARRED</a> this repo
+</p>
+
+<p align="center">
   Readme created with the help of <a href="https://github.com/quine-sh/README-Template/blob/main/README.md" alt="https://github.com/quine-sh/README-Template/blob/main/README.md">Quine Readme Template</a>
 </p>
 
-<p align="left" display="inline block">
-    People who <a href="https://github.com/RS-labhub/I-Love-You/stargazers">STARRED</a> this repo
-</p>
-<p align="right" display="inline block">
+<p align="right" >
     <img height="40px" width="40px" src="Assets\RS LOGO.png" />
 </p>
