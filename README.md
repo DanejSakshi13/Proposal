@@ -1,9 +1,8 @@
 <p align="right">
     <img height="40px" width="40px" src="Assets\RS LOGO.png" />
 </p>
-<p align="center">
-  <img src="Previews/preview.mp4"  />
-</p>
+
+https://github.com/RS-labhub/I-Love-You/assets/117426013/9bcfb5fe-ce32-47ba-8cb6-d38953ed9442
 
 
 ### But... I Love You
@@ -22,7 +21,7 @@
 
 ###  :movie_camera: Demo
 - After a brief introduction, let's dive a little more inside the project.
-- Here is the walk-through of EMAIL-SMS Detector project.
+- Here is the walk-through of "But.. I Love You" project.
 
 
 https://github.com/RS-labhub/I-Love-You/assets/117426013/5642a06f-bcb7-4c89-be94-f7c99c2344e7
