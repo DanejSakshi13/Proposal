@@ -2,7 +2,7 @@
     <img height="40px" width="40px" src="Assets\RS LOGO.png" />
 </p>
 <p align="center">
-  <img src="Previews/Preview.mp4"  />
+  <img src="Previews/preview.mp4"  />
 </p>
 
 
