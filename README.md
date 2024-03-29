@@ -1,6 +1,6 @@
-<p align="right">
-    <img height="40px" width="40px" src="Assets\RS LOGO.png" />
-</p>
+<h1 align="center">
+    BUT... I LOVE YOU
+</h1>
 
 https://github.com/RS-labhub/I-Love-You/assets/117426013/2566d37c-f5f2-4c80-ac44-6a9cdd4efc7e
 
@@ -121,5 +121,9 @@ $~$
 </p>
 
 <p align="center">
-  Readme created with the help of <a href="https://github.com/quine-sh/README-Template/blob/main/README.md" alt="https://github.com/quine-sh/README-Template/blob/main/README.md">Quine</a>
+  Readme created with the help of <a href="https://github.com/quine-sh/README-Template/blob/main/README.md" alt="https://github.com/quine-sh/README-Template/blob/main/README.md">Quine Readme Template</a>
+</p>
+
+<p align="right">
+    <img height="40px" width="40px" src="Assets\RS LOGO.png" />
 </p>
